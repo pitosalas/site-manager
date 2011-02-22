@@ -1,0 +1,18 @@
+tr { vertical-align: top; }
+td { padding: 3px; }
+.clss { background: url(../images/table-header-fill.gif) #3353a3 top left repeat-x; }
+.clss h1 { font-size: 12pt; margin: 0; padding: 0; }
+.clss p { margin: 0; padding: 0; }
+.clss td { padding: 5px; }
+.clss { color: white; }
+.clss a { color: yellow; }
+
+.che { text-align: center; width: 25px; }
+.tit { width: 200px; }
+.tit a.site { font-weight: bold; }
+.nam { width: 100px; }
+.spo { width: 200px; }
+.typ, .las, .adm { width: 100px; text-align: center; }
+
+.altrow { background: #f0f0f0; }
+.altrow .che { background: #fff; }
